@@ -6,4 +6,5 @@
 ## Table of Contents
 * [Week 1](/Week_1)
     * [Day 1](/Week_1/Day_1)
+      * [Lunch time](/Week_1/Day_1/What_should_I_Do_for_Lunch_Tips.md)
     
